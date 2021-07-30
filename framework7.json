@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/Alex/Documents/JSProjects/Trevare Festival/trevare-transportation-request",
+  "type": [
+    "web"
+  ],
+  "name": "Transportation request",
+  "framework": "react",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#ff4f0a",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
