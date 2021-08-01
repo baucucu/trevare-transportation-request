@@ -175,8 +175,8 @@ const RequestPage = (props) => {
         {"fields":
           {
             "From":request.From,
-            "To":dayjs(request.To).add(-2,"hours"),
-            "Time": request.Time,
+            "To":dayjsrequest.To,
+            "Time": dayjs(request.Time).add(-2,"hours"),
             "Passengers": request.Passengers,
             "Status": request.Status
           }
